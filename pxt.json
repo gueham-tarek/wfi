@@ -1,0 +1,23 @@
+{
+    "name": "WFI",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "Obloq": "github:dfrobot/pxt-obloq#v1.1.0",
+        "Obloq_http": "github:lioujj/pxt-obloq_http#59a6c324f360469233cd251d9d210e4233dff743"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
